@@ -1,6 +1,6 @@
 {
   "name": "@magister-repos/prettier-config-magister",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prettier rules for Magister Solutions Ltd",
   "main": "index.js",
   "scripts": {
